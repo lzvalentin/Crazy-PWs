@@ -29,6 +29,6 @@ THEN a password is generated that matches the selected criteria
 WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 ```
-![gif](./assets/walkthrough .gif)
+![gif](https://github.com/lzvalentin/Crazy-PWs/blob/main/assets/walkthrough%20.gif?raw=true)
 ## Credits 
 https://github.com/lzvalentin/Crazy-PWs
